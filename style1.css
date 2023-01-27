@@ -1,0 +1,36 @@
+.welcome {
+    color:rgb(177, 210, 30);
+    font-family:cursive;
+
+}
+
+.bighead {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(255, 0, 170);
+    max-width:fit-content;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+
+.center-me {
+    display:flex;
+    justify-content: center;
+
+
+}
+
+body {
+    background-color:cornflowerblue;
+    color:aliceblue;
+}
+li{
+    color: #000;
+}
+
+.flex{
+    display:flex;
+    justify-content: center;
+}
